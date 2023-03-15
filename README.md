@@ -1,1 +1,0 @@
-# rizzai-frontend
